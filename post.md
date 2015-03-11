@@ -1,0 +1,7 @@
+It's really exciting to see the first few features of the new AirPair site going live. After laying foundations for around 8 weeks, the first slabs are appearing. The new site focuses heavily on the core experience around personalization.
+
+<img src="//airpair.github.io/img/2014/11/menu.png" style="float:left;margin:20px;">Using the left side navigation, you can tell AirPair what technologies make up your stack. This information is used to customize the content delivered to you through the site and email. For example, our newsletter will include only articles related to your stack, and those same preferences will also be used as optional defaults when creating requests. To view an example of a newsletter customized for AngularJS, [click here](http://us7.campaign-archive1.com/?u=707a79398ffed7972e1e87db6&id=f4366abeda&e=).. 
+
+In addition to customizing your stack, you can also bookmark your favorite posts, workshops and experts for quick and easy access. Whist we haven't got as far as utilizing the bookmarks further, we will soon use these to surface other similar content and experts that are likely to be relevant.
+
+To get started, head over to the left side navigation, and add your stack preferences as well as some bookmarks. We'd love to hear your feedback, so [let us know](mailto:team@airpair.com?Subject=Feedback%20-%20personalization%20features) what you think.
